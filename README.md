@@ -1,1 +1,1 @@
-# StudyPlanner
+# AI powered Study Planner
