@@ -1,1 +1,1 @@
-# AI Powered Study Planner
+# AI Powered Study Planner - jai
